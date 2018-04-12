@@ -1,0 +1,15 @@
+//
+//  CollegeManagementSystem.pch
+//  CollegeManagementSystem
+//
+//  Created by EastElsoft on 2016/11/8.
+//  Copyright © 2016年 EastElsoft. All rights reserved.
+//
+
+#ifndef CollegeManagementSystem_pch
+#define CollegeManagementSystem_pch
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import <CoreData/CoreData.h>
+
+#endif /* CollegeManagementSystem_pch */
